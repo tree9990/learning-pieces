@@ -1,0 +1,23 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "/Users/zhhong/Documents/2016/Training/python/GitHub/pipenv"
+		},
+		{
+			"path": "/Users/zhhong/Documents/2016/Training/python"
+		},
+		{
+			"path": "/Users/zhhong/Documents/2016/Training/python/project1"
+		}
+	]
+}

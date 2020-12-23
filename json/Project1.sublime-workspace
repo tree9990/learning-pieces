@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Bun",
+				"bundle-ether"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "print('hello')",
+			"file": "/Users/zhhong/Documents/2016/Training/python/project1/print('hello')",
+			"file_size": 14,
+			"file_write_time": 132519671731032907,
+			"settings":
+			{
+				"buffer_size": 14,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "print('hello')"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 420.0,
+		"history":
+		[
+			"print(platform.python_version())",
+			"import platform",
+			"print (sys.version)",
+			"serial()",
+			"releaselevel()",
+			"sys.version_info",
+			"sys.version_info.major",
+			"import sys",
+			"version()",
+			"version",
+			"dir()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zhhong/Documents/2016/Training/python/project1"
+	],
+	"file_history":
+	[
+		"/Users/zhhong/Documents/2016/Training/python/sudoku.py",
+		"/Users/zhhong/Library/Application Support/Sublime Text 3/Packages/User/test",
+		"/Users/zhhong/Library/Application Support/Sublime Text 3/Packages/User/python3.8",
+		"/Users/zhhong/Library/Application Support/Sublime Text 3/Packages/User/python38.sublime-build",
+		"/Users/zhhong/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/zhhong/Library/Application Support/Sublime Text 3/Packages/Pylinter/Default (OSX).sublime-keymap",
+		"/Users/zhhong/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/zhhong/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/zhhong/Documents/2016/Training/python/json/cars.json",
+		"/Users/zhhong/Downloads/cars.json",
+		"/Users/zhhong/Documents/2016/Training/python/data.json",
+		"/Users/zhhong/Desktop/final.json",
+		"/Users/zhhong/Documents/2016/Training/python/b.py",
+		"/Users/zhhong/Documents/2016/Training/python/a.py",
+		"/Users/zhhong/Desktop/amir.json",
+		"/Users/zhhong/Desktop/new-triggers.json",
+		"/Users/zhhong/Desktop/new3-uut1.json",
+		"/Users/zhhong/Desktop/new-uut3.json",
+		"/Users/zhhong/Desktop/trigger_configs.json-original",
+		"/Users/zhhong/Desktop/new-uut1.json",
+		"/Users/zhhong/Desktop/uut1.json",
+		"/Users/zhhong/Desktop/uut2.json",
+		"/Users/zhhong/Desktop/trigger_configs.json",
+		"/Users/zhhong/Desktop/uut2-trigger_configs.json",
+		"/Users/zhhong/Desktop/sim-config.xml",
+		"/Users/zhhong/Desktop/sim-config.xml-2744",
+		"/Users/zhhong/Downloads/netprog_basics-master/README.md",
+		"/Users/zhhong/Downloads/netprog_basics-master/course_info.yaml",
+		"/Users/zhhong/Desktop/r1.tcl",
+		"/Users/zhhong/Desktop/vrf-bgp.tcl",
+		"/Users/zhhong/Downloads/netprog_basics-master/programming_fundamentals/README.md",
+		"/private/var/folders/x7/x3jwd0n94h17l1lz70m99nlc0000gn/T/com.microsoft.Outlook/Outlook Temp/20200121/README.md",
+		"/Users/zhhong/Desktop/Untitled.txt",
+		"/Users/zhhong/Desktop/Untitled.rtf"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/zhhong/Documents/2016/Training/python/project1/print('hello')",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"auto_name": "print('hello')",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 244.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python38.sublime-build",
+	"project": "Project1.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
